@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: ca_deit_base
+  NAME: ca_deit_base
+  DROP_PATH_RATE: 0.4

@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: ca_deit_small
+  NAME: ca_deit_small
+  DROP_PATH_RATE: 0.1
