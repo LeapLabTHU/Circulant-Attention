@@ -4,7 +4,7 @@ This repo contains the official PyTorch code and pre-trained models for **Circul
 
 + [Vision Transformers are Circulant Attention Learners](https://arxiv.org/abs/2512.21542)
 
-
++ [[Video]](https://underline.io/lecture/139797-vision-transformers-are-circulant-attention-learners) [[中文讲解]](https://www.bilibili.com/video/BV1vD7q6yEKh/?vd_source=b846541b1e7c735e68fcadd44248edf5)
 
 ## News
 
